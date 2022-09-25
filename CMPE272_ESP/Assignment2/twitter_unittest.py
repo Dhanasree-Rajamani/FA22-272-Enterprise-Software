@@ -1,6 +1,6 @@
 #Authors:
-#1. Dhanasree Rajamani
-#2. Sravani Thota
+#1. Dhanasree Rajamani (cases 1 to 8)
+#2. Sravani Thota(case 9)
 import unittest
 from unittest.mock import patch
 from FlaskTweetBot import home, app, deleteTweet, createTweet, searchTweet
