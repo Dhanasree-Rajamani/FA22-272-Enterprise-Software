@@ -1,3 +1,6 @@
+#Authors:
+#1. Krishna Pranathi Mokshagundam
+#2. Chaitra Bengaluru Vishweshwaraiah
 from flask_wtf import FlaskForm
 from wtforms import StringField,  SubmitField
 from wtforms.validators import DataRequired 
